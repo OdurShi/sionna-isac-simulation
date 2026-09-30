@@ -1,0 +1,8 @@
+<scene version="3.0.0">
+    <shape type="ply" id="buildings">
+        <string name="filename" value="buildings.ply"/>
+    </shape>
+    <shape type="ply" id="ground">
+        <string name="filename" value="ground.ply"/>
+    </shape>
+</scene>
